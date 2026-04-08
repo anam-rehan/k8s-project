@@ -80,6 +80,9 @@ Open the EXTERNAL-IP in browser.
     This project enhanced my practical experience with Kubernetes, AWS infrastructure, containerization, and implementing end-to-end CI/CD workflows in a real-world environment.
 
 
+![k8s-project-pipeline](https://github.com/user-attachments/assets/7e69c586-e386-442a-8c3c-aec63a3cf356)
+
+
 
 ![k8s-project1](https://github.com/user-attachments/assets/80cc451e-beb8-46d8-8e2b-089631ea4d7b)
 
