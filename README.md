@@ -11,7 +11,6 @@ Kubernetes CI/CD on AWS (EKS)
 <img width="1536" height="1024" alt="CI_CD pipeline flow on AWS EKS" src="https://github.com/user-attachments/assets/7f125b6f-2c97-4d5a-8228-7ea32e9f3e54" />
 
 
-
 🧰 Tech Stack
 
     Cloud: AWS (EKS, ECR, IAM)
