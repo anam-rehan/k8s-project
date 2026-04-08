@@ -4,10 +4,12 @@ Kubernetes CI/CD on AWS (EKS)
 
     This project demonstrates a complete end-to-end CI/CD pipeline for deploying a containerized application on Kubernetes (AWS EKS) using GitHub Actions.
     Every code change pushed to the repository automatically triggers a pipeline that builds, pushes, and deploys the application.
+    
 
 🏗️ Architecture
 
 <img width="1536" height="1024" alt="CI_CD pipeline flow on AWS EKS" src="https://github.com/user-attachments/assets/7f125b6f-2c97-4d5a-8228-7ea32e9f3e54" />
+
 
 
 🧰 Tech Stack
